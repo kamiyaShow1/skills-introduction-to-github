@@ -49,3 +49,14 @@ In this exercise, you will:
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+# GitHubの学習
+
+## 自己紹介
+GitHubを勉強中です！
+
+## 学習した内容
+- git clone でリポジトリをダウンロード
+- git add で変更をステージング
+- git commit で変更を記録
+- git push でGitHubにアップロード
